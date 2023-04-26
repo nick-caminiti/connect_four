@@ -1,4 +1,4 @@
-run = "bundle exec ruby main.rb"
+run = "bundle exec ruby lib/main.rb"
 hidden = [".bundle"]
 
 [nix]
